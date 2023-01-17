@@ -1,0 +1,60 @@
+body{
+            background-color: gold;
+        }
+        h1{
+            color: green;
+            text-decoration: underline;
+        }
+        li{
+            color: whitesmoke;
+            font-size: medium;
+            font-style: italic;
+        }
+        h3{
+            color: green;
+            text-decoration: underline;
+        }
+        h5{
+            color: red;
+        }
+        h2{
+            color: red;
+        }
+        #div1{
+            background-color: black;
+            padding: 100px;
+            margin: 50px;
+        }
+        #div2{
+            background-color: green;
+            padding: 80px;
+            margin: 50px;
+        }
+        #div3{
+            background-color: whitesmoke;
+            padding: 80px;
+            margin: 50px
+        }
+        #div4{
+            background-color: blue;
+            padding: 80px;
+            margin: 50px;
+        }
+        #div1, #div2, #div3, #div4{
+            border: solid;
+        }
+        p{
+            font-style: oblique;
+        }
+        #div5{
+            float: right;
+        }
+        #divimg{
+            float: right;
+            margin: 50px;
+            padding: 80px;
+        }
+        .clearfix{
+            overflow: auto;
+        }
+    

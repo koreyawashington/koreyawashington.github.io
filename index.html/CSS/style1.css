@@ -1,0 +1,74 @@
+        body{
+            background-color: gold;
+        }
+        h1{
+            color: green;
+            text-decoration: underline;
+        }
+        p{
+            color: whitesmoke;
+            font-size: larger;
+        }
+        li{
+            font-style: italic;
+            color: red;
+            font-size: medium;
+        }
+        h3{
+            color: green;
+            text-decoration: underline;
+        }
+        #nice{
+            color: whitesmoke;
+        }
+        #wp{
+            color: blue;
+        }
+        h2{
+            color: red;
+        }
+        #div1{
+            background-color: black;
+            padding: 100px;
+            margin: 50px;
+        }
+        #div2{
+            background-color: red;
+            padding: 80px;
+            margin: 50px;
+        }
+        #div3{
+            background-color: whitesmoke;
+            padding: 80px;
+            margin: 50px;
+        }
+        #div4{
+            background-color: green;
+            padding: 80px;
+            margin: 50px;
+        }
+        #div1, #div2, #div3, #div4{
+            border: solid
+        }
+        p{
+            font-style: oblique;
+        }
+        #div5{
+            float: right;
+        }
+        #divimg{
+            float: right;
+        }
+        .clearfix{
+            overflow: auto;
+        }
+        #div6{
+            float: right
+        }
+        .button{
+            background-color: red;
+            color: blue;
+        }
+        
+
+    
